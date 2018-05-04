@@ -1,0 +1,5 @@
+Di RPPL kasih Power Designer atau alat bantunya. D WBS ditambah proses pembuatan RPPL.
+
+Revisi usecase "melihat inventaris".
+
+Actor harus spesifik, misal anggota UKM dll.
