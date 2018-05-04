@@ -1,0 +1,6 @@
+PERUBAHAN
+Hasil revisi 26 maret 2018
+
+1. use case : aktor pengguna > masyarakat
+2. activity : menambah detail isi formulir
+3. dfd : buat kamus data
